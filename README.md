@@ -11,3 +11,11 @@ Look at the commonest SQL's data cleaning tips and learn how to defeat data clum
   - DUPLICATES
   - TO_DATE
   - NVL
+
+- Chaper 2: know your weapons!
+  - COALESCE
+  - LENGTH
+  - UPPER
+  - LOWER
+  - TRIM
+  - MIXED FUNCS
