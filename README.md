@@ -19,3 +19,11 @@ Look at the commonest SQL's data cleaning tips and learn how to defeat data clum
   - LOWER
   - TRIM
   - MIXED FUNCS
+
+- Chaper 3: enemy vs army!
+  - GROUP BY
+  - ORDER BY
+  - FETCH
+  - IS NULL
+  - IS NOT NULL
+  - LIKE
